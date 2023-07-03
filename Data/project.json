@@ -1,0 +1,38 @@
+
+[
+    
+    {
+        "_id": "1",
+        "name": "Toy Market",
+        "description": "This is a Disney Toys Website.",
+        "technologies":"React.js, React Router,Tailwind CSS,Daisy UI, NodeJs , ExpressJs , Firebase Authentication,MongoDB",
+        "features":"have a Toys list.Users can view the toys gallery , All Toys, My Toys,Users can See how to buy.Users can add toys, have an extra section which has customer comments , if user is signed in then he visit the website.have blog page",
+        "img": "https://i.ibb.co/882wY0Y/toy.png",
+        "liveSide":"https://b7a11-toy-marketplace.web.app/",
+        "clientSide":"https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-client-side-sadiawcutecat",
+        "serverSide":"https://github.com/programming-hero-web-course-4/b7a11-toy-marketplace-server-side-sadiawcutecat"
+    },
+    {
+        "_id": "2",
+        "name": "JobHolder",
+        "description": "This is a JobHolder Website",
+        "technologies":"React.js, React Router, Tailwind, CSS, AreaChart",
+        "features":" have a job category list, job features.users can view details.users can apply for jobs.Users can visit statistics, blogs, and applied job pages. I have used js, react-router.For designing, I have used Tailwind css.",
+        "img": "https://i.ibb.co/rv2scH5/jobholder.png",
+        "liveSide":"https://jobholder.netlify.app/",
+        "clientSide":"https://github.com/Porgramming-Hero-web-course/b7a9-career-hub-sadiawcutecat"
+        
+    },
+    {
+        "_id": "3",
+        "name": "EduLine",
+        "description": "This is a foreign language club website.",
+        "technologies":"React.js, React Router,Tailwind,DaijyUi,NodeJs,ExpressJs,Firebase,Authencation,MongoDb",
+        "features":" have classes section.have instructors section.the user can view any instructor information, student info. -user can view dashboard , class info. have an extra section which you can see why you study with us. if user is signed in then he visit the website.",
+        "img": "https://i.ibb.co/LrgqvBV/eduline.png",
+        "liveSide":"https://summer-camp-client-9bb2c.web.app/",
+        "clientSide":"https://github.com/programming-hero-web-course1/b712-summer-camp-client-side-sadiawcutecat",
+        "serverSide":"https://github.com/programming-hero-web-course1/b7a12-summer-camp-server_side-sadiawcutecat"
+    }
+
+]
